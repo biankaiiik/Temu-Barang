@@ -62,10 +62,11 @@ TemuBarang adalah website pelaporan dan pencarian barang hilang atau ditemukan d
 7. Buka browser dan akses:
    "http://localhost/TemuBarang/"
 
-## Identitas
-Nama : Makailla Cikal F.P.K
-No : 22
-Kelas : XII PPLG 2
-Guru Pengampu : Bapak Bangun
+## 👤 Identitas
+
+- **Nama:** Makaila Cikal F.P.K
+- **No.:** 22
+- **Kelas:** XII PPLG 2
+- **Guru Pengampu:** Bapak Bangun
 
 ## TemuBarang — Temukan kembali, laporkan dengan mudah.
