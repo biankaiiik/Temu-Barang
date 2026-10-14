@@ -68,5 +68,4 @@ No : 22
 Kelas : XII PPLG 2
 Guru Pengampu : Bapak Bangun
 
-
 ## TemuBarang — Temukan kembali, laporkan dengan mudah.
