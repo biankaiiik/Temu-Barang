@@ -5,37 +5,37 @@ TemuBarang adalah website pelaporan dan pencarian barang hilang atau ditemukan d
 
 ## Screenshot Website
 ### 1. Halaman Beranda
-![Beranda TemuBarang](ss/beranda.jpeg)
+![Beranda TemuBarang](ss-web/beranda.jpeg)
 
 ### 2. Halaman Jelajahi Barang
-![Jelajahi Barang](ss/jelajahi.jpeg)
+![Jelajahi Barang](ss-web/jelajahi.jpeg)
 
 ### 3. Halaman Login
-![Login](ss/login.jpeg)
+![Login](ss-web/login.jpeg)
 
 ### 4. Halaman Register
-![Register](ss/register.jpeg)
+![Register](ss-web/register.jpeg)
 
 ### 5. Dashboard Pengguna
-![Dashboard Pengguna](ss/pengguna.jpeg)
+![Dashboard Pengguna](ss-web/pengguna.jpeg)
 
 ### 6. Database Pengguna
-![Database Pengguna](ss/dbpengguna.jpeg)
+![Database Pengguna](ss-web/dbpengguna.jpeg)
 
 ### 7. Halaman Klaim Barang
-![Klaim Barang](ss/klaim.jpeg)
+![Klaim Barang](ss-web/klaim.jpeg)
 
 ### 8. Halaman Laporan Pengguna
-![Laporan Pengguna](ss/laporan.jpeg)
+![Laporan Pengguna](ss-web/laporan.jpeg)
 
 ### 9. Dashboard Admin
-![Dashboard Admin](ss/dbadmin.jpeg)
+![Dashboard Admin](ss-web/dbadmin.jpeg)
 
 ### 10. Kelola Data Admin
-![Kelola Data Admin](ss/keloladmin.jpeg)
+![Kelola Data Admin](ss-web/keloladmin.jpeg)
 
 ### 11. Laporan Admin
-![Laporan Admin](ss/laporanadmin.jpeg)
+![Laporan Admin](ss-web/laporanadmin.jpeg)
 
 ## Fitur
 - 🔍 Menjelajahi barang hilang dan barang ditemukan.
