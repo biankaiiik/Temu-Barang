@@ -1,33 +1,72 @@
+
+
 ## TemuBarang
+TemuBarang adalah website pelaporan dan pencarian barang hilang atau ditemukan di lingkungan sekolah. Website ini membantu pengguna melaporkan barang, menjelajahi laporan, serta melakukan klaim barang yang ditemukan.
 
-Website pelaporan dan pencarian barang hilang atau ditemukan di lingkungan sekolah.
+## Screenshot Website
+1. Halaman Beranda
+"Beranda TemuBarang" (ss/beranda.jpeg)
 
-Fitur
+3. Halaman Jelajahi Barang
+"Jelajahi Barang" (ss/jelajahi.jpeg)
 
-- Registrasi dan login pengguna
-- Laporan barang hilang dan barang temuan
-- Pencarian dan filter kategori barang
-- Persetujuan laporan oleh admin
-- Pengajuan klaim barang
-- Dashboard pengguna dan admin
+3. Halaman Login
+"Login" (ss/login.jpeg)
 
-Teknologi
+4. Halaman Register
+"Register" (ss/register.jpeg)
 
+5. Dashboard Pengguna
+"Dashboard Pengguna" (ss/pengguna.jpeg)
+
+6. Database Pengguna
+"Database Pengguna" (ss/dbpengguna.jpeg)
+
+7. Halaman Klaim Barang
+"Klaim Barang" (ss/klaim.jpeg)
+
+8. Halaman Laporan
+"Laporan Pengguna" (ss/laporan.jpeg)
+
+9. Dashboard Admin
+"Dashboard Admin" (ss/dbadmin.jpeg)
+
+10. Kelola Data Admin
+"Kelola Data Admin" (ss/keloladmin.jpeg)
+
+11. Laporan Admin
+"Laporan Admin" (ss/laporanadmin.jpeg)
+
+## Fitur
+- 🔍 Menjelajahi barang hilang dan barang ditemukan.
+- 📝 Membuat laporan barang hilang atau ditemukan.
+- 👤 Registrasi dan login pengguna.
+- 📦 Mengajukan klaim barang.
+- 📋 Melihat dan mengelola laporan pengguna.
+- 🛠️ Dashboard admin untuk mengelola data dan laporan.
+
+## Teknologi
 - PHP
 - MySQL
 - HTML
 - CSS
 - XAMPP
 
-Cara Menjalankan
+## Cara Menjalankan
+1. Install dan jalankan XAMPP.
+2. Aktifkan Apache dan MySQL.
+3. Salin folder project "TemuBarang" ke direktori "htdocs".
+4. Buat database MySQL bernama "temubarang".
+5. Import struktur dan data database yang diperlukan.
+6. Sesuaikan konfigurasi database di folder "config".
+7. Buka browser dan akses:
+   "http://localhost/TemuBarang/"
 
-1. Pasang XAMPP dan aktifkan Apache serta MySQL.
-2. Salin folder project ke "htdocs".
-3. Buat database "temubarang" melalui phpMyAdmin.
-4. Impor file SQL struktur database yang disediakan, jika tersedia.
-5. Siapkan "config/database.php" berdasarkan "config/database.example.php".
-6. Buka "http://localhost/temubarang/" di browser.
+## Identitas
+Nama : Makailla Cikal F.P.K
+No : 22
+Kelas : XII PPLG 2
+Guru Pengampu : Bapak Bangun
 
-Catatan
 
-Project ini dibuat untuk pembelajaran. Gunakan data contoh dan jangan memasukkan data pribadi ke repository publik.
+## TemuBarang — Temukan kembali, laporkan dengan mudah.
